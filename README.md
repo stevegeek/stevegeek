@@ -23,11 +23,11 @@ I maintain a number of gems (all extracted from projects I have worked on) which
 
 **gems include**:
 - [`vident`](https://github.com/stevegeek/vident) - Vident is the base of your design system implementation, which provides helpers for working with Stimulus. For component libraries with ViewComponent or Phlex.
-- [`ai_refactor`](https://github.com/stevegeek/ai_refactor) - AI Refactor is an experimental tool to see how AI can be applied to bulk refactor code.
-- [`typed_operation`](https://github.com/stevegeek/typed_operation) - Command pattern, which is callable, and can be partially applied (curried) and has typed parameters
+- [`typed_operation`](https://github.com/stevegeek/typed_operation) - Command pattern, which is callable, and can be partially applied, curried and has typed parameters
 - [`encoded_id`](https://github.com/stevegeek/encoded_id) & [`encoded_id-rails`](https://github.com/stevegeek/encoded_id-rails) - encode numerical & hex IDs (eg record primary keys) into obfuscated strings. The obfuscated strings are reversible, so you can decode them back. Supports encoding multiple IDs at once, and generating IDs with custom alphabets and separators to make the IDs easier to read or share.
-- [`yaml_csp_config`](https://github.com/stevegeek/yaml_csp_config) - provides you with a way to manage your Rails 5.2+ CSP configuration via a YAML file. The CSP configuration can also be extended by environment variables.
+- [`ai_refactor`](https://github.com/stevegeek/ai_refactor) - AI Refactor is an experimental tool to see how AI can be applied to bulk refactor code.
 - [`quo`](https://github.com/stevegeek/quo) - query objects for ActiveRecord that are composable.
+- [`yaml_csp_config`](https://github.com/stevegeek/yaml_csp_config) - provides you with a way to manage your Rails 5.2+ CSP configuration via a YAML file. The CSP configuration can also be extended by environment variables.
 - [`fixtures_from_factories`](https://github.com/stevegeek/fixtures_from_factories) - tool to help build a set of Fixtures for your Rails app, using your test suite's FactoryBot factories.
 
 **Other recent contributions**:
