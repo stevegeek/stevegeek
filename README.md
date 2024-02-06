@@ -19,11 +19,14 @@ While I started off coding in various other languages for the past 9 years I hav
 
 Recently, since [Hacktoberfest '22](https://hacktoberfest.com/) and reading [How To Open source](https://howtoopensource.dev/) by [Richard Schneeman](https://schneems.com/about), I have been inspired to contribute back so have been focusing more on open source.
 
-I maintain a number of gems (all extracted from projects I have worked on) which I use in production apps today.
+I maintain a number of gems (all extracted from projects I have worked on) which I use in production apps today. 
+
+Have a look on [Rubygems](https://rubygems.org/profiles/stevegeek).
 
 **gems include**:
 - [`vident`](https://github.com/stevegeek/vident) - Vident is the base of your design system implementation, which provides helpers for working with Stimulus. For component libraries with ViewComponent or Phlex.
 - [`typed_operation`](https://github.com/stevegeek/typed_operation) - Command pattern, which is callable, and can be partially applied, curried and has typed parameters
+- [`claret`](https://github.com/stevegeek/claret) - Experiment in adding type information to Ruby via transpilation
 - [`encoded_id`](https://github.com/stevegeek/encoded_id) & [`encoded_id-rails`](https://github.com/stevegeek/encoded_id-rails) - encode numerical & hex IDs (eg record primary keys) into obfuscated strings. The obfuscated strings are reversible, so you can decode them back. Supports encoding multiple IDs at once, and generating IDs with custom alphabets and separators to make the IDs easier to read or share.
 - [`ai_refactor`](https://github.com/stevegeek/ai_refactor) - AI Refactor is an experimental tool to see how AI can be applied to bulk refactor code.
 - [`quo`](https://github.com/stevegeek/quo) - query objects for ActiveRecord that are composable.
