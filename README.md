@@ -53,6 +53,5 @@ Some only very small contributions but I hope to do more soon!
 - on [Mastodon](https://ruby.social/@stevediaconou), 
 - and I write on [diaconou.com](https://www.diaconou.com?utm_campaign=profile&utm_source=github) (where you can also find more info, publications etc.).
 
-[![stevegeek's GitHub | Stats](https://stats.quine.sh/stevegeek/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=stevegeek)
-
-[![stevegeek's GitHub | Languages Over Time](https://stats.quine.sh/stevegeek/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=stevegeek)
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=stevegeek"><img alt="stevegeek's GitHub | Stats" src="https://stats.quine.sh/stevegeek/github" width="200"></a>
+<a href="https://quine.sh?utm_source=widgets&utm_campaign=stevegeek"><img alt="stevegeek's GitHub | Stats" src="https://stats.quine.sh/stevegeek/languages-over-time" width="200"></a>
