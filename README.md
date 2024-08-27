@@ -32,6 +32,7 @@ Have a look on [Rubygems](https://rubygems.org/profiles/stevegeek).
 - [`quo`](https://github.com/stevegeek/quo) - query objects for ActiveRecord that are composable.
 - [`yaml_csp_config`](https://github.com/stevegeek/yaml_csp_config) - provides you with a way to manage your Rails 5.2+ CSP configuration via a YAML file. The CSP configuration can also be extended by environment variables.
 - [`fixtures_from_factories`](https://github.com/stevegeek/fixtures_from_factories) - tool to help build a set of Fixtures for your Rails app, using your test suite's FactoryBot factories.
+- [and others...](https://rubygems.org/profiles/stevegeek)
 
 **Other recent contributions**:
 - a bug fix in Ruby - [ruby/ruby](https://github.com/ruby/ruby/pull/6568);
@@ -45,7 +46,7 @@ Have a look on [Rubygems](https://rubygems.org/profiles/stevegeek).
 
 Some only very small contributions but I hope to do more soon! 
 
-**Things I support and hope you might too**:
+**Things you should consider supporting**:
 - [ruby.social](https://ruby.social)
 - [shortruby.com](https://shortruby.com/)
 
