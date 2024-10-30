@@ -24,6 +24,7 @@ I maintain a number of gems (all extracted from projects I have worked on) which
 Have a look on [Rubygems](https://rubygems.org/profiles/stevegeek).
 
 **gems include**:
+- [`awfy`](https://github.com/stevegeek/awfy) - CLI tool to help run suites of benchmarks , and compare results over time, between control implementations, across branches and with or without YJIT.
 - [`vident`](https://github.com/stevegeek/vident) - Vident is the base of your design system implementation, which provides helpers for working with Stimulus. For component libraries with ViewComponent or Phlex.
 - [`typed_operation`](https://github.com/stevegeek/typed_operation) - Command pattern, which is callable, and can be partially applied, curried and has typed parameters
 - [`claret`](https://github.com/stevegeek/claret) - Experiment in adding type information to Ruby via transpilation
