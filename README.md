@@ -29,13 +29,14 @@ Have a look on [Rubygems](https://rubygems.org/profiles/stevegeek).
 - [`typed_operation`](https://github.com/stevegeek/typed_operation) - Command pattern, which is callable, and can be partially applied, curried and has typed parameters
 - [`claret`](https://github.com/stevegeek/claret) - Experiment in adding type information to Ruby via transpilation
 - [`encoded_id`](https://github.com/stevegeek/encoded_id) & [`encoded_id-rails`](https://github.com/stevegeek/encoded_id-rails) - encode numerical & hex IDs (eg record primary keys) into obfuscated strings. The obfuscated strings are reversible, so you can decode them back. Supports encoding multiple IDs at once, and generating IDs with custom alphabets and separators to make the IDs easier to read or share.
-- [`ai_refactor`](https://github.com/stevegeek/ai_refactor) - AI Refactor is an experimental tool to see how AI can be applied to bulk refactor code.
 - [`quo`](https://github.com/stevegeek/quo) - query objects for ActiveRecord that are composable.
 - [`yaml_csp_config`](https://github.com/stevegeek/yaml_csp_config) - provides you with a way to manage your Rails 5.2+ CSP configuration via a YAML file. The CSP configuration can also be extended by environment variables.
 - [`fixtures_from_factories`](https://github.com/stevegeek/fixtures_from_factories) - tool to help build a set of Fixtures for your Rails app, using your test suite's FactoryBot factories.
+- [`ai_refactor`](https://github.com/stevegeek/ai_refactor) - AI Refactor is an experimental tool to see how AI can be applied to bulk refactor code. (Archived)
 - [and others...](https://rubygems.org/profiles/stevegeek)
 
 **Other recent contributions**:
+- general contributions to and maintenance of [`literal`](https://github.com/joeldrapper/literal)
 - a bug fix in Ruby - [ruby/ruby](https://github.com/ruby/ruby/pull/6568);
 - a small bug fix on Rails - [rails/rails](https://github.com/rails/rails/pull/47014);
 - additional coverage in Ruby spec - [ruby/spec](https://github.com/ruby/spec/pull/958);
