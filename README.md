@@ -53,5 +53,5 @@ Some only very small contributions but I hope to do more soon!
 - [shortruby.com](https://shortruby.com/)
 
 **Happy to connect**:
-- on [Mastodon](https://ruby.social/@stevediaconou), 
+- on [Bluesky](https://bsky.app/profile/diaconou.com), 
 - and I write on [diaconou.com](https://www.diaconou.com?utm_campaign=profile&utm_source=github) (where you can also find more info, publications etc.).
